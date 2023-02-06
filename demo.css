@@ -1,0 +1,17 @@
+.first{
+    border: 50px; 
+    border-style: dotted;
+    display:flex;
+    justify-content: center;
+}
+#second{
+    text-align: left;
+}
+#third{
+
+    text-align: center;
+}
+#fourth{
+    text-align: right;
+}
+    

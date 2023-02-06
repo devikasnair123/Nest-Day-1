@@ -1,0 +1,25 @@
+h1{
+    color:red;
+}
+body{
+background: paleturquoise;
+}
+p{
+   font: 1em sans-serif; 
+}
+a{
+    text-decoration: none;
+    cursor: grab;
+}
+#first{
+    color:blue;
+}
+.box{
+    color :goldenrod;
+    margin: 28px;
+    padding: 88px;
+    border: px;
+    border-style: dotted;
+    display:flex;
+    justify-content: center;
+}
