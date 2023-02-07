@@ -1,17 +1,51 @@
-.first{
-    border: 50px; 
-    border-style: dotted;
-    display:flex;
+.pic{
+    height: 500px;
+    width: auto;
+}
+.hey{
+    color:brown;
+    margin: 50px;
+    padding: 50px;
+    border: 2px;
+    border-style: hidden;
+    display: flex;
     justify-content: center;
 }
+.box{
+    color:rgb(14, 15, 15);
+    border: 2px;
+    border-style: hidden;
+    display: flex;
+    justify-content: center
+}
+.contact{
+    color:rgb;
+    margin: 50px;
+    padding: 50px;
+    border: 2px;
+    border-style: hidden;
+    display: flex;
+    justify-content: center;
+}
+.q{
+    background-image: url("./images/Photo3.jpg");
+    background-color: #cccccc;
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1900px 1300px;
+    position: relative;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
 #second{
-    text-align: left;
+    text-decoration: none;
 }
 #third{
-
-    text-align: center;
+    text-decoration: none;
 }
 #fourth{
-    text-align: right;
+    text-decoration: none;
 }
-    
